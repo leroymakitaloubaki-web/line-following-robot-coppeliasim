@@ -48,7 +48,7 @@ The available rendering shows a mobile platform with two wheels, motor-support s
 
 ### Mechanical Design Preview
 
-![SolidWorks Robot Design](images/solidworks_model.png)
+![SolidWorks Robot Design](images/solidworks_model.png.jpg)
 
 **Note:** The original SolidWorks CAD files are no longer available. The mechanical design is documented using the preserved rendering.
 
