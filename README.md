@@ -110,6 +110,22 @@ A recorded demonstration illustrates the robot operating in the CoppeliaSim envi
 
 The demonstration video will be linked here once uploaded.
 
+## 🎥 Simulation Demonstration
+
+The following video demonstrates the line-following robot operating in CoppeliaSim.
+
+The robot uses two vision sensors and a rule-based differential-drive controller implemented in Lua.
+
+[▶ Watch the Line-Following Robot Simulation](videos/line_following_demo.mp4)
+
+## 📦 CoppeliaSim Scene
+
+The simulation scene is available for download:
+
+[Download the CoppeliaSim Scene](simulation/line_following_robot.ttt)
+
+Open the `.ttt` file in a compatible version of CoppeliaSim to explore the robot model, sensors and control script.
+
 ## 📁 9. Repository Structure
 
 ```text
